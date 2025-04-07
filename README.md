@@ -37,7 +37,7 @@ OrleansRemindersTable: Used by the Reminders System. Stores and manages timers/r
 OrleansQuery: Used for the Query Registry. Stores reusable SQL queries, such as cleanup or maintenance operations.
 
 
- Download scripts from Orleans GitHub.
+ Download scripts from Orleans GitHub.(https://github.com/dotnet/orleans/tree/main/src/AdoNet)
 
  5. Required Cleanup Query
 
@@ -125,7 +125,7 @@ Dashboard UI: http://localhost:8080
 
  14. References
 
- Orleans Official Docs
- ADO.NET Setup Scripts
-Intro to Orleans – YouTube
+ Orleans Official Docs(https://learn.microsoft.com/en-us/dotnet/orleans/)
+ ADO.NET Setup Scripts(https://github.com/dotnet/orleans/tree/main/src/AdoNet)
+Intro to Orleans – YouTube(https://www.youtube.com/results?search_query=microsoft+orleans)
 
